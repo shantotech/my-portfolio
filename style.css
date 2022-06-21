@@ -20,10 +20,10 @@ h1{
     width: 100%;
 }
 .content1{
-    padding: 210px 0px 0px 0px;
+    padding-top: 210px;
 }
 .content2{
-    padding: 210px 0px 0px 0px;
+    padding-top: 210px;
 }
 .paragraph{
     width: 75%;
@@ -58,7 +58,7 @@ h2{
     background-position: right;
 }
 .button{
-    padding: 10px 0px 0px 0px;
+    padding-top: 10px;
 }
 .semi-title{
     color: #f88768;
